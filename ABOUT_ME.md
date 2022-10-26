@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Aditya-Chourasia
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... full stack web development
-- 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... email on chaurasiaaditya102@gmail.com
-
-<!---
-Aditya-Chourasia/Aditya-Chourasia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Aditya based in Gurugramm India
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning ES6
+- 💞️ I’m looking to collaborate on UI design as I want to learn about UI design to expert level
+- 🧑‍🏭 My favourite hobby is to make useless projects from javascript
+- ⌚ My favourite passtime is playing Call of duty or Drawing
+- 📫 How to reach me email on adityachaurasia201@gmail.com
