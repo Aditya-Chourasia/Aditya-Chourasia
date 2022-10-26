@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditya based in Gurugramm India
+- 👋 Hi, I’m Aditya born in Faridabad, India and Currently based in Gurugram, India
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ES6
 - 💞️ I’m looking to collaborate on UI design as I want to learn about UI design to expert level
