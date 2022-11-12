@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ES6
 - 💞️ I’m looking to collaborate on UI design as I want to learn about UI design to expert level
-- 🤝 I need help in web development as I am not a good developer But I am cute developer as my developer friends say
+- 🤝 I need help in web development as I am not a good developer But I am cute developer as my other developer friends say
 - 🧑‍🏭 My favourite hobby is to make useless projects from javascript
 - ⌚ My favourite passtime is playing Call of duty or Drawing
 - 📫 How to reach me email on adityachaurasia201@gmail.com
