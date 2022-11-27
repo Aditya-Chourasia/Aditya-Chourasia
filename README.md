@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya born in Faridabad, India and Currently based in Gurugram, India
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ES6
-- 💞️ I’m looking to collaborate on UI design as I want to learn about UI design to expert level
+- 💞️ I’m looking to collaborate on UI designs
 - 🤝 I need help in web development as I am not a good developer But I am cute developer as my other developer friends say
 - 🧑‍🏭 My favourite hobby is to make useless projects from javascript
 - ⌚ My favourite passtime is playing Call of duty or Drawing
