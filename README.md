@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Aditya born in Faridabad, India and Currently based in Gurugram, India
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ES6
-- 💞️ I’m looking to collaborate on UI designs
-- 🤝 I need help in web development as I am not a good developer But I am cute developer as my other developer friends say
-- 🧑‍🏭 My favourite hobby is to make useless projects from javascript
-- ⌚ My favourite passtime is playing Call of duty or Drawing
-- 📫 How to reach me email on adityachaurasia201@gmail.com
+# Hi, I'm Aditya
+<h2>I'm Front End Developer, Software Developer, Python Developer</h2>
+<p>I am passionate about Coding </p>
+<p>My coding journey started in 2021</p>
+<p>I am not a professional developer but I am trying to be professional</p>
+<h1>You can contact me by mailing on</h1>
+<a href="mailto:adityachaurasia201@gmail.com">Email here</a>
