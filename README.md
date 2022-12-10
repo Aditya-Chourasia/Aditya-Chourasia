@@ -33,3 +33,10 @@
   <hr>
   
 <a href=#><img src="snake.svg"></a>
+ 
+<hr>
+ 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Aditya-Chourasia/count.svg" />
+</p>
