@@ -1,9 +1,6 @@
 <table>
   <tr>
     <td>
-      <img src="logo.png" alt="img">
-    </td>
-    <td>
       <h1>Hi, I am Aditya Chaurasia</h1>
       <h3>Front End Developer / JavaScript Programmer / Software Developer</h3>
     </td>
