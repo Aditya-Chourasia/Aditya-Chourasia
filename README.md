@@ -5,7 +5,7 @@
     </td>
     <td>
       <h1>Hi, I am Aditya Chaurasia</h1>
-      <h3>Front End Developer / Python Programmar / Software Developer</h3>
+      <h3>Front End Developer / JavaScript Programmer / Software Developer</h3>
     </td>
   </tr>
 <table>
