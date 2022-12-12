@@ -13,7 +13,7 @@
 <ul>
   <li>
     <h5>Web Design - FreeCodeCamp</h5>
-    <a href="https://www.freecodecamp.org/certification/AdityaChaurasia/responsive-web-design">View Certificates</a>
+    <a href="https://www.freecodecamp.org/certification/AdityaChaurasia/responsive-web-design">View Certificate</a>
   </li>
 </ul>
   
