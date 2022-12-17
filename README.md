@@ -1,3 +1,7 @@
+<img src="https://www.codewars.com/users/Aditya-Chourasia/badges/large">
+
+<hr>
+
 <table>
   <tr>
     <td>
